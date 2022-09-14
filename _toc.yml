@@ -1,0 +1,11 @@
+format: jb-article
+root: README
+sections:
+- file: SVD
+- file: RF
+- file: DNN
+- file: CNN
+- file: Attention
+- file: Varia
+- file: TD
+- file: Project
